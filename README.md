@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jeremyagnz@gmail.com**
 
-- 📄 Know about my experiences [https://jeremyagnz.github.io/JeremyagnzPage/PDF/Jeremy%20Arias%20CV.pdf](https://jeremyagnz.github.io/JeremyagnzPage/PDF/Jeremy%20Arias%20CV.pdf)
+- 📄 Know about my experiences
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
