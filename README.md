@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeremy Arias Gonzalez</h1>
 <h3 align="center"> Full Stack Developer </h3>
-![trophy](https://github-profile-trophy.vercel.app/?username=jeremyagnz)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremyagnz&label=Profile%20views&color=0e75b6&style=flat" alt="jeremyagnz" /> </p>
 
