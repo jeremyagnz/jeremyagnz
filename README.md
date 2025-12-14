@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremyagnz&label=Profile%20views&color=0e75b6&style=flat" alt="jeremyagnz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeremyagnz" alt="jeremyagnz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/api?username=jeremyagnz&theme=flat&column=7" alt="jeremyagnz" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://jeremyagnz.github.io/JeremyagnzPage/](https://jeremyagnz.github.io/JeremyagnzPage/)
 
