@@ -28,7 +28,7 @@
 
 ## Tech stack
 
-<div align="center">
+<div >
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="42" height="42" />
   </a>
