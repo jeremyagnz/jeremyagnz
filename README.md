@@ -29,27 +29,7 @@
 ## Tech stack
 
 <p align="center">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="42" height="42" />
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="42" height="42" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="42" height="42" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" />
-  </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="42" height="42" /></a>&nbsp;<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="42" height="42" /></a>&nbsp;<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="42" height="42" /></a>&nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" /></a>&nbsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="42" height="42" /></a>&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" /></a>&nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" /></a>
 </p>
 
 ---
@@ -57,12 +37,12 @@
 ## GitHub stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeremyagnz&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremyagnz&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeremyagnz&show_icons=true&locale=en&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremyagnz&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremyagnz" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=jeremyagnz&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
